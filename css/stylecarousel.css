@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-attachment: fixed;
+    background-color: rgba(0, 0, 0, 0.877);
+}
+
+#carouselExemple {
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: auto;
+}
